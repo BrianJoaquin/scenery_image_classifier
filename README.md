@@ -19,7 +19,7 @@ The model can classify images into the following categories:
 
 ##  Project Structure
 
-SceneryImageClassifier/
+scenery_image_classifier/
 - Data/
   - seg_train/ # Training images (organized by category)
   - seg_test/ # Testing images (organized by category)
