@@ -20,14 +20,12 @@ The model can classify images into the following categories:
 ##  Project Structure
 
 SceneryImageClassifier/
-│
-├── Data/
-│ ├── seg_train/ # Training images (organized by category)
-│ ├── seg_test/ # Testing images (organized by category)
-│ └── seg_pred/ # Images to predict (unlabeled)
-│
-├── scenery_classifier.py # Main script to train, evaluate, and predict
-└── README.md # This file
+- Data/
+  - seg_train/ # Training images (organized by category)
+  - seg_test/ # Testing images (organized by category)
+  - seg_pred/ # Images to predict (unlabeled)
+- scenery_classifier.py # Main script to train, evaluate, and predict
+-  README.md # This file
 
 ---
 
