@@ -35,6 +35,12 @@ pip install tensorflow numpy matplotlib pillow
 
 ---
 
+##  Required Hardware
+
+Requires a CPU with at least four threads as the program leverages four different processes to preprocess the data. Also requires an Nvdia GPU in order to utilize TensorFlow.
+
+---
+
 ##  Dataset
 
 The image dataset is hosted externally due to file size limits.
